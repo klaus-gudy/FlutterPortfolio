@@ -1,6 +1,6 @@
 # hello
 
-My very own first app.just like a hello world app
+want to know more about me? here is a simple portfolio that explains more about me.
 
 ## Demo
 
@@ -23,3 +23,7 @@ Go to project root and execute the following command in console to get the requi
 ```
 flutter pub get 
 ```
+
+## Credits
+1.TCMS-FINHUB
+2.Angela Yu
